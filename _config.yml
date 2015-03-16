@@ -1,46 +1,38 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Love coding
+email:       solaris.bed@gmail.com
+author:      Piotr Bednarz
+description: println("Love coding!")
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://blog.pbednarz.com"
 
 # Google analytics
 google_analytics:
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
-show_post_footers:  false
+show_post_footers:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: android-with-love
 
-# Social icons
-show_social_icons: false
-github_username:
-stackoverflow_id:
-twitter_username:
-google_plus_id:
-linkedin_username:
-bitcoin_url:
-paypal_url:
-flattr_button:
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: pbednarz
+  instagram:
+  linkedin: piotr-bednarz/99/8a9/b2
+  pinterest:
+  rss: rss
+  twitter:
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
 
-# Post sharing icons
-show_sharing_icons: false
-share_text: 'Share this post!'
-# Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
 
 # Build settings
 markdown:     redcarpet
