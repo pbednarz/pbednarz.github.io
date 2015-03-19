@@ -1,6 +1,6 @@
 # Site settings
 title:       Love coding
-email:       solaris.bed@gmail.com
+email:       
 author:      Piotr Bednarz
 description: println("Love coding!")
 baseurl:     ""
@@ -37,7 +37,8 @@ footer-links:
 # Build settings
 markdown:     redcarpet
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", 'smart']
+  
 permalink:    pretty
 paginate:     3
 sass:
