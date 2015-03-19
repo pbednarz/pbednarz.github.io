@@ -15,7 +15,7 @@ works if <del>for some reason you need to update your post</del>. For consistenc
 <ins>The same goes for insertions</ins>, of course.
 
 ### Gist example
-{% gist 5555251 %}
+{% gist cbd0e1b042d59a7b43b8 %}
 
 ### Code, with syntax highlighting
 
