@@ -15,7 +15,7 @@ works if <del>for some reason you need to update your post</del>. For consistenc
 <ins>The same goes for insertions</ins>, of course.
 
 ### Gist example
-{% gist pbednarz/efdfbdc5d457c74f1cbe Fsharp %}
+https://gist.github.com/efdfbdc5d457c74f1cbe.git
 
 ### Code, with syntax highlighting
 
