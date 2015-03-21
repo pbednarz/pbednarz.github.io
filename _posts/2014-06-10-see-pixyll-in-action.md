@@ -15,7 +15,7 @@ works if <del>for some reason you need to update your post</del>. For consistenc
 <ins>The same goes for insertions</ins>, of course.
 
 ### Gist example
-{% gist frogermcs/e2d00a89cef336779bf1 AndroidManifest.xml %}
+{% gist pbednarz/efdfbdc5d457c74f1cbe Fsharp %}
 
 ### Code, with syntax highlighting
 
