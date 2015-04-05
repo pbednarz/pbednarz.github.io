@@ -34,7 +34,6 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Build settings
-highlighter:  true
 markdown:     redcarpet
 permalink:    pretty
 relative_permalinks: true
